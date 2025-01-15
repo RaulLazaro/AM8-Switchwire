@@ -7,3 +7,7 @@ printer-[0-9]*_[0-9]*.cfg
 *.bkp
 *.csv
 *.zip
+/printer_data/config/.theme/
+/Extra-Parts/
+/AM8-Switchwire-Mod/
+/Voron-Stealthburner/
