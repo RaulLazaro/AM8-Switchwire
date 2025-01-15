@@ -1,0 +1,6 @@
+[submodule "AM8-Switchwire-Mod"]
+	path = AM8-Switchwire-Mod
+	url = https://github.com/maximilian-foerg/AM8-Switchwire-Mod.git
+[submodule "Voron-Stealthburner"]
+	path = Voron-Stealthburner
+	url = https://github.com/VoronDesign/Voron-Stealthburner.git
