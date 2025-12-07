@@ -23,7 +23,8 @@ Below is a list of additional parts used in the construction and customization o
 
 You can find the OrcaSlicer machine profiles in my backup repository [OrcaSlicer-profiles](https://github.com/RaulLazaro/OrcaSlicer-profiles).
 
-## klipper-backup 💾
+## Klipper-Backup 💾
 
-You can find the backup files in the `printer_data` directory.
-This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
+You can find the `printer_data` backup files in the repository [AM8-Switchwire-backup](https://github.com/RaulLazaro/AM8-Switchwire-backup).
+
+This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/Klipper-Backup).
