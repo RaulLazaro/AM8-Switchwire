@@ -19,7 +19,11 @@ Below is a list of additional parts used in the construction and customization o
 - [Voron X-carriage Pinda Mount](https://www.printables.com/model/262136-voron-x-carriage-pinda-mount)
 - [Large Gear Clockwork2](https://www.printables.com/model/404246-large-gear-clockwork2)
 
-## klipper-backup 💾 
+## OrcaSlicer profiles
+
+You can find the OrcaSlicer machine profiles in my backup repository [OrcaSlicer-profiles](https://github.com/RaulLazaro/OrcaSlicer-profiles).
+
+## klipper-backup 💾
 
 You can find the backup files in the `printer_data` directory.
 This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
